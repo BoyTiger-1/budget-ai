@@ -1,0 +1,6 @@
+Flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+# Optional: Uncomment the line below if you want to use OpenAI API
+# openai>=1.0.0
+
